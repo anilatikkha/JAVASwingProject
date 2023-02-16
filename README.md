@@ -6,12 +6,16 @@ This project is designed using JAVA SWINGS for the front end. I have included ma
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/70574216/219269615-460257a4-c7a9-4a75-9512-85123899b4c4.png">
 
 **SIGN UP Page
-**<img width="1011" alt="image" src="https://user-images.githubusercontent.com/70574216/219269816-957f9c3d-8467-4000-af10-d747944e2338.png">
+**
+<img width="1011" alt="image" src="https://user-images.githubusercontent.com/70574216/219269816-957f9c3d-8467-4000-af10-d747944e2338.png">
 
 **LOGIN PAGE
 **
 
+
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/70574216/219269948-5b339c47-4937-4fdf-97cd-2ebd91fee677.png">
+
+
 
 **POST LOGIN Page Pop UP
 
